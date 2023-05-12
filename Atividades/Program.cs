@@ -44,7 +44,7 @@ namespace Atividades
                 }
             }
 
-            Console.WriteLine("\nPalavra");
+            Console.WriteLine("\n\nPalavra");
             for (int i = 0; i < this.display.Length; i++)
             {
                 Console.Write($"{display[i]}, ");
